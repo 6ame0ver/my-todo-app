@@ -1,0 +1,7 @@
+Fix PC
+Update OS
+Clean code
+Test the program
+Final test
+Check for bugs
+fix bugs
